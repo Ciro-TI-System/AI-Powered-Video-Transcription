@@ -55,14 +55,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Instalar o ffmpeg-static e o fluent-ffmpeg:  `npm i ffmpeg-static fluent-ffmpeg`
 - Instalar o Transformers/Xenova:  `npm i @xenova/transformers`
 
-
-
-<br>
-
-## 🎲 DEMO
-
-https://github.com/Ciro-TI-System/AI-Powered-Video-Transcription/assets/78507494/9686b15d-19b7-4327-9533-2d75c8ecab91
-
 <br>
 
 ## 🎨 Layout
