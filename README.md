@@ -61,7 +61,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎲 DEMO
 
-
+https://github.com/Ciro-TI-System/AI-Powered-Video-Transcription/assets/78507494/9686b15d-19b7-4327-9533-2d75c8ecab91
 
 <br>
 
